@@ -11,6 +11,8 @@ BMS: DR01 or DR-JC03
 Capacity: from 60Ah, up to 300Ah
 Where to buy: all over Aliexpress, like "PAPOOL LiFePO4"
 ```
+![battery image](battery.jpg)
+
 
 ## Connect to Victron Controller
 First of when only DIP 6 is facing upwards, it's recognized as a "Pylontech battery" and the charge controller will not see any battery details like cell voltage, temps - so avoid using this mode.
